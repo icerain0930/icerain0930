@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+我是普高轉科大的人類
+資網系
+我不知道可以打什麼了(
