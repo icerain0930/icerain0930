@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 換行記得空兩格  
 -->
 我是普高轉科大的人類  
-資網系  
+高中打一點競程  
+大學資網系  
 我不知道可以打什麼了(  
