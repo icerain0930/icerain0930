@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 高中打一點競程  
 大學資網系  
 我不知道可以打什麼了(  
+
+希望養成寫完程式就丟 github 的習慣  
+不然忘記備份我的程式碼就都不見了==
