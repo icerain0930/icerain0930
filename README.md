@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 我是普高轉科大的人類  
 高中打一點競程  
-大學資網系  
+大學資網系輔資管系  
 我不知道可以打什麼了(  
 
 希望養成寫完程式就丟 github 的習慣  
